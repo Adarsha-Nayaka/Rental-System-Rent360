@@ -103,8 +103,8 @@ const SearchBox: React.FC<SearchBoxProps> = ({ onSearch }) => {
                       alt={suggestion.title}
                       className="w-12 h-12 object-cover"
                     />
-                    <p>Price: ${suggestion.price}</p>
-                    <p>Security Deposit: ${suggestion.securityDeposit}</p>
+                    <p>Price: ₹{suggestion.price}</p>
+                    <p>Security Deposit: ₹{suggestion.securityDeposit}</p>
                   </div>
                 </li>
               ))}
