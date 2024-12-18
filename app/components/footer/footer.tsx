@@ -31,7 +31,7 @@
 //     <footer style={footerStyle}>
 //       <div className="container mx-auto text-center">
 //       <div style={pinkLine}></div>
-//         <p>&copy; 2023 Rent360. All rights reserved.</p>
+//         <p>&copy; 2023 LeaseEase. All rights reserved.</p>
 //         <nav className="mt-2">
 //           {/* Dynamic Services Links */}
 //           <a style={linkStyle} href="#">Home</a>
@@ -195,7 +195,7 @@ export default function App() {
                 <path
                   d="M12.378 1.602a.75.75 0 00-.756 0L3 6.632l9 5.25 9-5.25-8.622-5.03zM21.75 7.93l-9 5.25v9l8.628-5.032a.75.75 0 00.372-.648V7.93zM11.25 22.18v-9l-9-5.25v8.57a.75.75 0 00.372.648l8.628 5.033z" />
               </svg>
-              Rent360 PVT Ltd
+              LeaseEase PVT Ltd
             </h6>
             <p>
             Introducing an innovative web application that allows users to rent anything they need with ease. The platform is built with the latest technologies, ensuring a seamless and user-friendly experience.
@@ -324,7 +324,7 @@ export default function App() {
         <a
           className="font-semibold text-neutral-600 dark:text-neutral-400"
           href="https://github.com/Adarsha-Nayaka/Rental-System"
-        >RENT360</a>
+        >LeaseEase</a>
       </div>
     </footer>
   );

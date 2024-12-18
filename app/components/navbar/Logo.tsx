@@ -11,8 +11,8 @@ const Logo = () => {
     onClick={() => { window.location.href = "http://localhost:3000"; }}
       className="hidden md:block cursor-pointer" 
       src="/images/logo.png" 
-      height="75" 
-      width="75" 
+      height="95" 
+      width="95" 
       alt="Logo" 
     />
    );

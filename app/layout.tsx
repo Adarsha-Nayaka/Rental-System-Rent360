@@ -15,7 +15,7 @@ import Footer from '@/app/components/footer/footer';
 import SearchWrapper from './components/SearchWrapper'; // Import the new SearchWrapper
 
 export const metadata = {
-  title: 'Rent360',
+  title: 'LeaseEase',
   description: 'Rent your stuff',
 }
 

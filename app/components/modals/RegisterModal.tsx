@@ -64,7 +64,7 @@ const RegisterModal= () => {
   const bodyContent = (
     <div className="flex flex-col gap-4">
       <Heading
-        title="Welcome to Rent360"
+        title="Welcome to LeaseEase"
         subtitle="Create an account!"
       />
       <Input
